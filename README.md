@@ -1,4 +1,4 @@
-# pyconuk18-workshop-part1
+# pyconuk18-workshop-part2
 Material for my workshop at PyconUK 2018. 
 
-Part 1 contains the basic project setup. 
+Part 2 contains the django api setup 
